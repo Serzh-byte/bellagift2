@@ -94,10 +94,10 @@ export default function CuteDigitalCard() {
 
                     <p className="text-base text-pretty">
                       Don't focus on how long the shift feels, because the 9 hours will pass quickly if you don't fixate
-                      on them.
+                      on them!!!! LAF LAF MY BABYYYYY
                     </p>
 
-                    <p className="text-lg font-semibold text-pink-600">You got this 💪💞</p>
+                    <p className="text-lg font-semibold text-pink-600">You got this 💞</p>
                   </div>
 
                   <div className="pt-4 border-t border-pink-200">
